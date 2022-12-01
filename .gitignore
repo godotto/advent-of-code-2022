@@ -1,0 +1,15 @@
+# .NET build folders
+bin
+obj
+
+# C# project file
+*.csproj
+
+# Visual Studio Code config
+.vscode
+
+# data for puzzles
+*.txt
+
+# netcoredbg
+.netcoredbg_hist
